@@ -36,3 +36,5 @@ Sofware Git: https://git-scm.com
 - git clone DIRECCION // se trae a local los archivos del repositorio
 
 --------
+
+como se conecto?
