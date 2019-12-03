@@ -25,8 +25,8 @@ Sofware Git: https://git-scm.com
 - git checkout nomb // entra en la rama nomb
 
 ### Usuario
-- git config --global user.email "sebascarm@gmail.com"
-- git config --global user.name "sebascar"
+- git config --global user.email "xxxxxxx"
+- git config --global user.name "xxxxxxx"
 
 ### GitHub
 - Crear proyecto
