@@ -35,6 +35,4 @@ Sofware Git: https://git-scm.com
 - git pull // trae los cambios del servidor
 - git clone DIRECCION // se trae a local los archivos del repositorio
 
---------
-
-como se conecto?
+Cambios borrados
